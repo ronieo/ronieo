@@ -8,16 +8,22 @@
 <br />
 <br /><br /><br />
 <br />
-<b>💻Studying💻</b><br /><br />
+<b>💻Studying💻</b><br />
+Skills interested in and constantly studying<br /><br />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff"/><br />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<br />
 <br />
 ℹ️ Tech Stack ℹ️<br /><br />
 Techs that I've used at least once<br /><br />
 <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=HTML5&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff"/><br />
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff"/><br />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff"/><br />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
@@ -26,10 +32,10 @@ Techs that I've used at least once<br /><br />
 <br />
 💡 Tools 💡<br /><br />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff"/>
-<img src="https://aleen42.github.io/badges/src/zeplin.svg"/>
+<img src="https://aleen42.github.io/badges/src/zeplin.svg"/><br />
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/><br />
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/><br />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
 <br />
