@@ -6,9 +6,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronieo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
-<br /><br /><br />
 <br />
-<h3>💻Studying💻<h3><br />
+<h3>💻Studying💻<h3>
 Skills interested in and constantly studying<br /><br />
 <br /><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff"/><br />
@@ -16,7 +15,7 @@ Skills interested in and constantly studying<br /><br />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <br />
 <br />
-<h3>ℹ️ Tech Stack ℹ️<h3 /><br />
+<h3>ℹ️ Tech Stack ℹ️<h3 />
 Techs that I've used at least once<br /><br />
 <br /><img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=HTML5&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff"/><br />
