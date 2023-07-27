@@ -19,7 +19,6 @@ Skills interested in and constantly studying<br /><br />
 <br />
 <br />
 <h3>ℹ️ Tech Stack ℹ️<h3 />
-Techs that I've used at least once<br /><br />
 <br /><img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=HTML5&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff"/><br />
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff"/>
