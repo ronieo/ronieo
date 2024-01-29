@@ -45,7 +45,7 @@ Skills interested in and constantly studying<br /><br />
 <br />
 <b>💜 My Blog 💜</b><br />
 <br />
-<a href="https://ronieo.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=ffffff"/></a>
+<a href="https://zucca101.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=ffffff"/></a>
 
 </div>
 
